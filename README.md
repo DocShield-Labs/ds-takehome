@@ -33,7 +33,7 @@ Upload your code to a GitHub repository and email us the link to your repo.
 
 ## Notes
 - You can test the application with a free model: `deepseek/deepseek-chat-v3-0324:free`
-- You **are not expected** to complete all requirements, but you should do as much as you can in the allotted time. Do not exceed the time limit, we use the honor system.
+- You have 1 week from the day you recieve the link to this repo to complete the assessment. You **are not expected** to complete all requirements, but you should do as much as you can in the allotted time (6 hours). Do not exceed the time limit, we use the honor system.
 - You **are allowed** to use AI agents for the assessment, but if you do, you must include a section in the README.md describing how you used the agent and you **must follow best practices for the agent you choose**.
 - Ensure your commits are atomic and have meaningful commit messages.
 - Ensure your code runs and does not have any undocumented dependencies.
