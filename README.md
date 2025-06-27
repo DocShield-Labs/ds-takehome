@@ -15,7 +15,7 @@ Your goal is to create an AI Chat web application.
 ## Level 1 Requirements
 - Select model: the user should be able to choose between: gpt-4o and claude-4-sonnet.
 - Chat: the user should be able to chat with the selected model and see the responses in a chat interface.
-- Chat History: the user should be able to see the chat history and clear the chat history.
+- Chat History: the user should be able to see the chat history and create new chats.
 - Set up a local SQLite database to store the chat history.
 
 ## Level 2 Requirements
